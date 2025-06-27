@@ -1,0 +1,15 @@
+.app{
+    display: flex;
+    height: 100vh;
+}
+
+.contactos{
+    width: 25%;
+    background-color: aliceblue;
+    padding: 10px;
+}
+.chatprincipal{
+    width: 75%;
+    background-color: azure;
+    padding: 10px;
+}
