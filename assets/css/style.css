@@ -9,7 +9,25 @@
     padding: 10px;
 }
 .chatprincipal{
+    display: flex;
     width: 75%;
     background-color: azure;
     padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.chatprincipal h2{
+    font-size: 26px;
+    margin: 10px 0;
+}
+.chatprincipal p{
+    max-width: 400px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.chatprincipal img {
+    border-radius: 12px;
 }
